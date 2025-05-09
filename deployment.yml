@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: nginx-con
-        image: oolralra/ipnginx:2
+        image: wera4677/spring:3
