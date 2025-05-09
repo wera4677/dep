@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: nginx-con
-        image: wera4677/spring:11
+        image: kimjaeyeop/spring:11
